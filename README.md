@@ -5,21 +5,21 @@ This is a Simple User Registration & Login systems for bank webpage done with No
 # Requreiments
 - MongoDB compass download
 
-         [MONGODB compass](https://www.mongodb.com/atlas/database)
+     [MONGODB compass](https://www.mongodb.com/atlas/database)
 
 * Node js download
 
-         [Node js](https://nodejs.org/en)
+     [Node js](https://nodejs.org/en)
 
 **RUN THE APP**
 - [X] Start the project using the following command in your project folder
-- 
+
 npm init
 
 - [X] Install the required modules using following command
 
 
->npm install express
+npm install express
 npm install ejs
 npm install mongoose
 npm install body-parser
