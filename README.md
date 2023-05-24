@@ -2,15 +2,17 @@
 This is a Simple User Registration & Login systems for bank webpage done with Node.js Framework using MongoDB
 
 
-#Requreiments
+# Requreiments
 - MongoDB compass download
-[MONGODB compass]
-(https://www.mongodb.com/atlas/database)
+
+ [MONGODB compass](https://www.mongodb.com/atlas/database)
 
 * Node js download
-[Node js]https://nodejs.org/en
+
+[Node js](https://nodejs.org/en)
 
 **RUN the APP**
+
 'node server.js'
 
 > Installation
