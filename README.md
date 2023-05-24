@@ -28,8 +28,9 @@ npm install passport-local-mongoose
 
 
 - [X] Create two folders inside the project directory using the following command
-- 
+
 mkdir model
+
 mkdir views
 
  - [X] Create another file named app.js inside project directory
