@@ -51,7 +51,7 @@ touch register.ejs
 
 **Installation process**
 
-Clone the repository and install the dependencies cd food-ordering-system npm install
+Clone the repository and install the dependencies npm install
 
 Set up the MongoDB database:
 
